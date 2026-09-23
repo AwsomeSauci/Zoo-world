@@ -1,0 +1,6 @@
+{
+  "name": "ZooWorld.Application",
+  "rootNamespace": "ZooWorld.Application",
+  "references": ["ZooWorld.Domain"],
+  "noEngineReferences": true
+}

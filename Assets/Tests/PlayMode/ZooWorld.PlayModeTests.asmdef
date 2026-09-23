@@ -1,0 +1,8 @@
+{
+  "name": "ZooWorld.PlayModeTests",
+  "rootNamespace": "ZooWorld.Tests.PlayMode",
+  "references": ["ZooWorld.Domain", "ZooWorld.Application", "ZooWorld.Unity", "ZooWorld.Composition", "Unity.TextMeshPro", "Unity.ugui", "Zenject"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll", "R3.dll"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

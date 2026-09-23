@@ -1,0 +1,5 @@
+{
+  "name": "ZooWorld.Composition",
+  "rootNamespace": "ZooWorld.Composition",
+  "references": ["ZooWorld.Domain", "ZooWorld.Application", "ZooWorld.Unity", "Zenject"]
+}

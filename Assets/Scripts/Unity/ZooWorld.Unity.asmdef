@@ -1,0 +1,5 @@
+{
+  "name": "ZooWorld.Unity",
+  "rootNamespace": "ZooWorld.Unity",
+  "references": ["ZooWorld.Domain", "ZooWorld.Application", "Unity.TextMeshPro", "Unity.ugui", "Unity.Collections", "Zenject", "R3.Unity"]
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9eb514ce1d3c4d4095ae8ac4ac3f990, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: ZooWorld.Composition::ZooWorld.Composition.Animals.AnimalDefinitionAsset
+  speciesId: snake
+  prefab: {fileID: 5843337663652001998, guid: 56bd4033a8405064f8642432d3dd3689, type: 3}
+  modules:
+  - {fileID: 11400000, guid: af914911eaf913c49bd394821cf2f957, type: 2}
+  - {fileID: 11400000, guid: 3bcec80a1771f9542a9e38372c55a1b3, type: 2}

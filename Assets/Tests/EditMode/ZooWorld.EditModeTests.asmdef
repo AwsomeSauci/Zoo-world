@@ -1,0 +1,9 @@
+{
+  "name": "ZooWorld.EditModeTests",
+  "rootNamespace": "ZooWorld.Tests.EditMode",
+  "references": ["ZooWorld.Domain", "ZooWorld.Application", "ZooWorld.Composition", "ZooWorld.Unity", "Zenject"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll", "R3.dll"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
